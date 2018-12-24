@@ -7,3 +7,4 @@
 #macro IDLE 0
 #macro MOVE 1
 #macro RANGEATTACK 2
+#macro SKILL 3
